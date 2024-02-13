@@ -10,4 +10,4 @@ Alejandro Martinez-Calvo, Matthew D Biviano, Anneline Christensen, Eleni Katifor
 
 For simplicity, we have uploaded a Colab Notebook that reproduces the main result of the paper:
 
-[Colab Notebook](flui)
+[Colab Notebook](https://github.com/miguel-rg/fluidic_memristor/blob/main/fluidic_memristor_phenomenological_mnodel.ipynb)
