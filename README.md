@@ -6,3 +6,8 @@ This repository contains the necessary code to reproduce the theoretical results
 **The fluidic memristor: collective phenomena in elastohydrodynamic networks**
 
 Alejandro Martinez-Calvo, Matthew D Biviano, Anneline Christensen, Eleni Katifori, Kaare H Jensen, Miguel Ruiz-Garcia
+
+
+For simplicity, we have uploaded a Colab Notebook that reproduces the main result of the paper:
+
+[Colab Notebook](flui)
